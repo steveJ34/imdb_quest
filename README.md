@@ -32,4 +32,5 @@ In order to run the analysis, follow the steps below.
 - Download the contents of the github repository to your local machine
 - The required packages and versions are outlined in the requirements.txt
 - The complete notebook can be executed in a linear fashion, without making any updates
+- The notebook should yield two dtaframes, one for the initial scraping and a second one, which contains the adjusted scores, review penalties and oscar boosts
 - The unit tests at the bottom of the notebook serve as an indicator of data completeness
